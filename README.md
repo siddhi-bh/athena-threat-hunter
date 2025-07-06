@@ -44,8 +44,7 @@ cd athena-threat-hunter
 
 Backend Setup (Python)
 bash
-Copy
-Edit
+
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
@@ -53,8 +52,7 @@ The API will be available at http://127.0.0.1:8000
 
  Frontend Setup (React)
 bash
-Copy
-Edit
+
 cd ../frontend
 npm install
 npm run dev
@@ -62,8 +60,7 @@ The app will run at http://localhost:5173
 
 Folder Structure
 bash
-Copy
-Edit
+
 athena-threat-hunter/
 ├── backend/     # FastAPI backend logic
 ├── frontend/    # React frontend interface
