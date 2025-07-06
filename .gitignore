@@ -1,0 +1,13 @@
+# Frontend - React junk
+athena-ui/node_modules/
+athena-ui/dist/
+
+# Backend - Python junk
+athena-backend/__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Logs
+*.log
