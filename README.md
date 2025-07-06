@@ -10,7 +10,6 @@
 - Upload `.log` files and analyze them in real time
 - Displays file name and upload timestamp
 - Option to export only the suspicious entries
-- Light and dark mode toggle
 - Clean and responsive UI
 
 ---
