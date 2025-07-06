@@ -1,24 +1,18 @@
-# Logs
-logs
+# === Frontend junk ===
+frntend/node_modules/
+frntend/dist/
+
+# === Backend junk ===
+backend/__pycache__/
+*.pyc
+
+# === Docker junk ===
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# === Secrets ===
+.env
+.env.*
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# === System files ===
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+Thumbs.db

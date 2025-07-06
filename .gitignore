@@ -1,13 +1,27 @@
-# Frontend - React junk
-athena-ui/node_modules/
-athena-ui/dist/
+# === FRONTEND (React Vite) ===
+frntend/node_modules/
+frntend/dist/
+frntend/.env.local
+frntend/.env
 
-# Backend - Python junk
-athena-backend/__pycache__/
-*.pyc
+# === BACKEND (Python Flask) ===
+backend/__pycache__/
+backend/*.pyc
+backend/.env
 
-# Secrets
-.env
+# === DOCKER ===
+docker/*.log
 
-# Logs
+# === OS & Editor Junk ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
 *.log
+
+# === Virtual Envs (if any) ===
+venv/
+env/
+
+# Node junk
+frontend/node_modules/
