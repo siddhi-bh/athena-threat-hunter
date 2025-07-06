@@ -1,8 +1,8 @@
 # === FRONTEND (React Vite) ===
-frntend/node_modules/
-frntend/dist/
-frntend/.env.local
-frntend/.env
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
 
 # === BACKEND (Python Flask) ===
 backend/__pycache__/
@@ -12,16 +12,13 @@ backend/.env
 # === DOCKER ===
 docker/*.log
 
-# === OS & Editor Junk ===
-.DS_Store
-Thumbs.db
-
-# === Logs ===
+# === LOGS ===
 *.log
 
-# === Virtual Envs (if any) ===
+# === VIRTUAL ENVIRONMENTS ===
 venv/
 env/
 
-# Node junk
-frontend/node_modules/
+# === SYSTEM TRASH ===
+.DS_Store
+Thumbs.db
