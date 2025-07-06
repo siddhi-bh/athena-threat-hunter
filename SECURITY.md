@@ -4,8 +4,8 @@ If you find any security vulnerabilities in this project, please **do not** open
 
 Instead, contact me directly at:
 
-📧 siddhibhatt.dev@gmail.com  
+📧 siddhiwork.129@gmail.com  
 or  
 🔒 [GitHub profile contact](https://github.com/siddhi-bh)
 
-We take all reports seriously and will respond promptly.
+I take all reports seriously and will respond promptly.
